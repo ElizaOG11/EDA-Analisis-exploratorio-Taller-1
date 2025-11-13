@@ -1,1 +1,1 @@
-console.log(main)
+console.log("conflicto en main")
