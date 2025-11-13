@@ -10,4 +10,4 @@ Desarrollo de Pregunta Smart, análisis univariado, interpretación de resultado
 ##Dirección##
 ---
 
-#Teléfono
+#Teléfonos
